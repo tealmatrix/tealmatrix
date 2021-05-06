@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tealmatrix
 - 👀 I’m interested in ... this
 - 🌱 I’m currently learning ... that
-- 💞️ I’m looking to collaborate on ...somebody, anybody, nobody
+- 💞️ I’m looking to collaborate with ...somebody, anybody, nobody
 - 📫 How to reach me ... 
 
 <!---
